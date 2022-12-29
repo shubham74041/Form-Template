@@ -1,0 +1,15 @@
+.home-main{
+    /* background-color: #2596be; */
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.form-data-card{
+    width: 50vh;
+    background-color:#2596be;
+    /* color: #145369; */
+    border: 2px solid #96be25;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+}
